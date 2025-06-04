@@ -1,0 +1,25 @@
+# Core Libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Scikit-learn and ML Models
+scikit-learn
+xgboost
+
+# TensorFlow & Keras (for deep learning tasks)
+tensorflow
+keras
+
+# Model Saving
+# `pickle` is part of the Python standard library
+pickle-mixin
+
+
+
+# Web App / Dashboard
+streamlit
+
