@@ -137,6 +137,10 @@ Files:
 
 ---
 
+For Better Understanding go thorough the README_CropAI.md and Plant_Disease_Classification_README.md
+
+---
+
 
 ## 📬 Contact
 
